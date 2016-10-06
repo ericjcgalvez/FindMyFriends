@@ -1,6 +1,10 @@
-Version 1.1.12
+Version 1.3.3
 ________________________________________________________________________________
 - Use homegrown Rcpp based graph class and algorithm for clique extraction
+
+Version 1.1.12
+________________________________________________________________________________
+- Bug fix: pangenome subsetting is now faster and actually correct
 
 Version 1.1.11
 ________________________________________________________________________________
